@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'Durazno Technologies',
+    siteUrl: 'https://www.durazno.io/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Durazno Technologies - dream beyond',
+        description: 'Our top class engineers deliver the best AI solutions faster than any other company',
     },
     language: 'en-us',
     locale: 'en-US',
-    siteLogo: `${process.env.BASE_PATH || ''}/images/logo.png`, // or use a string for the logo e.g. "TechStartup"
+    siteLogo: `${process.env.BASE_PATH || ''}/images/logo.png`,
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

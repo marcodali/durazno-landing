@@ -28,12 +28,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  twitter: {
-    card: 'summary_large_image',
-    title: siteDetails.metadata.title,
-    description: siteDetails.metadata.description,
-    images: ['/images/twitter-image.jpg'],
-  },
 };
 
 export default function RootLayout({
