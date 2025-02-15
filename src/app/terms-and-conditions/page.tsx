@@ -13,7 +13,7 @@ const TermsAndConditionsPage: React.FC = () => {
           <div className="rounded-lg bg-blue-50 p-6 mb-8">
             <p className="text-blue-800">
               By accessing or using any services provided by Durazno Technologies SAS 
-              ("Company", "we", "us", or "our"), you agree to be bound by these 
+              (&ldquo;Company&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo;, or &ldquo;our&rdquo;), you agree to be bound by these 
               Terms and Conditions. If you do not agree with any part of these terms, 
               you may not access our services.
             </p>
@@ -22,9 +22,9 @@ const TermsAndConditionsPage: React.FC = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-semibold text-gray-900 border-b pb-2">1. Introduction</h2>
             <p>
-              These Terms and Conditions ("Terms") govern your access to and use of our 
+              These Terms and Conditions (&ldquo;Terms&rdquo;) govern your access to and use of our 
               artificial intelligence services, software, and related documentation 
-              (collectively, "Services"). Our Services are provided by:
+              (collectively, &ldquo;Services&rdquo;). Our Services are provided by:
             </p>
             
             <div className="bg-gray-50 rounded-lg p-4 space-y-2">
@@ -184,7 +184,7 @@ const TermsAndConditionsPage: React.FC = () => {
             </div>
             <p className="text-sm text-gray-500 mt-2">
               Response time: 5-7 business days. For urgent matters, include 
-              "Legal Urgent" in email subject line.
+              &ldquo;Legal Urgent&rdquo; in email subject line.
             </p>
           </section>
         </div>
