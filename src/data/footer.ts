@@ -4,7 +4,7 @@ export const footerDetails: {
     subheading: string;
     quickLinks: IMenuItem[];
     email: string;
-    telephone: string;
+    telephone?: string;
     socials: ISocials;
 } = {
     subheading: "Our top class engineers deliver the best AI solutions faster than any other company.",
@@ -25,9 +25,6 @@ export const footerDetails: {
     email: 'hola@durazno.io',
     socials: {
         github: 'https://github.com/Durazno-Technologies',
-        // twitter: 'https://twitter.com',
-        // facebook: 'https://facebook.com',
-        // youtube: 'https://youtube.com',
         linkedin: 'https://www.linkedin.com/company/durazno/',
         threads: 'https://www.threads.net/@duraznoinc',
         instagram: 'https://www.instagram.com/duraznoinc/',
