@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Where Elite AI Engineering Meets Tomorrow’s Technology',
-    subheading: 'Pioneering WhatsApp Automation with Hyper-Precise Virtual Agents and Advanced RAG Systems. AI That Sees, Thinks & Moves',
+    heading: 'Creating What’s Next.',
+    subheading: 'We explore the unknown, solve the impossible, and build what hasn’t been imagined yet. The next big thing? Already in the works.',
     centerImageSrc: '/images/hero-mockup.webp',
 }

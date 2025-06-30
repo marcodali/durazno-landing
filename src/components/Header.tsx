@@ -48,7 +48,7 @@ const Header: React.FC = () => {
                         ))}
                         <li>
                             <Link href="#cta" className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors">
-                                Download
+                                Join
                             </Link>
                         </li>
                     </ul>
